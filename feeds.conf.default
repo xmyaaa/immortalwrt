@@ -1,5 +1,5 @@
-src-git packages https://github.com/xmyaaa/packages.git;openwrt-18.06
-#src-git packages https://github.com/openwrt/packages.git;openwrt-22.03
+#src-git packages https://github.com/xmyaaa/packages.git;openwrt-18.06
+src-git packages https://github.com/openwrt/packages.git;openwrt-22.03
 #src-git luci https://github.com/immortalwrt/luci.git;openwrt-18.06-k5.4
 #src-git luci https://github.com/xmyaaa/immortalwrt-luci.git;openwrt-18.06
 src-git luci https://github.com/xmyaaa/immortalwrt-luci.git;openwrt-18.06-k5.4
